@@ -1,0 +1,1 @@
+/home/karlo/ROS-exercises/exercise1/devel/.private/package2/share/package2/cmake/package2Config-version.cmake

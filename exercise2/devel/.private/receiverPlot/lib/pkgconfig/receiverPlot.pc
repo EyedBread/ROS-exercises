@@ -1,0 +1,8 @@
+prefix=/home/karlo/ROS-exercises/exercise2/devel/.private/receiverPlot
+
+Name: receiverPlot
+Description: Description of receiverPlot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

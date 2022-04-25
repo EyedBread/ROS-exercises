@@ -1,0 +1,1 @@
+/home/karlo/ROS-exercises/exercise1/devel/.private/receiver/share/receiver/cmake/receiverConfig.cmake

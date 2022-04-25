@@ -1,0 +1,1 @@
+/home/karlo/ROS-exercises/exercise1/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake

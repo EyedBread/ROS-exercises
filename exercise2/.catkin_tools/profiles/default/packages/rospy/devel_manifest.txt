@@ -1,0 +1,5 @@
+rospy
+/home/karlo/ROS-exercises/exercise2/devel/.private/rospy/cmake.lock /home/karlo/ROS-exercises/exercise2/devel/./cmake.lock
+/home/karlo/ROS-exercises/exercise2/devel/.private/rospy/lib/pkgconfig/rospy.pc /home/karlo/ROS-exercises/exercise2/devel/lib/pkgconfig/rospy.pc
+/home/karlo/ROS-exercises/exercise2/devel/.private/rospy/share/rospy/cmake/rospyConfig.cmake /home/karlo/ROS-exercises/exercise2/devel/share/rospy/cmake/rospyConfig.cmake
+/home/karlo/ROS-exercises/exercise2/devel/.private/rospy/share/rospy/cmake/rospyConfig-version.cmake /home/karlo/ROS-exercises/exercise2/devel/share/rospy/cmake/rospyConfig-version.cmake

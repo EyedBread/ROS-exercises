@@ -1,0 +1,3 @@
+Symlinking /home/karlo/ROS-exercises/exercise2/devel/lib/pkgconfig/roscpp.pc
+Symlinking /home/karlo/ROS-exercises/exercise2/devel/share/roscpp/cmake/roscppConfig-version.cmake
+Symlinking /home/karlo/ROS-exercises/exercise2/devel/share/roscpp/cmake/roscppConfig.cmake

@@ -1,0 +1,1 @@
+/home/karlo/ROS-exercises/exercise1/devel/.private/broadcast/share/broadcast/cmake/broadcastConfig-version.cmake

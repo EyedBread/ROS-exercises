@@ -1,0 +1,3 @@
+Symlinking /home/karlo/ROS-exercises/exercise1/devel/lib/pkgconfig/package1.pc
+Symlinking /home/karlo/ROS-exercises/exercise1/devel/share/package1/cmake/package1Config.cmake
+Symlinking /home/karlo/ROS-exercises/exercise1/devel/share/package1/cmake/package1Config-version.cmake

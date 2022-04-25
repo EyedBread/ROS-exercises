@@ -1,0 +1,6 @@
+devel_space: /home/karlo/ROS-exercises/exercise1/devel
+install: false
+install_space: /home/karlo/ROS-exercises/exercise1/install
+profile: default
+source_space: /home/karlo/ROS-exercises/exercise1/src
+workspace: /home/karlo/ROS-exercises/exercise1

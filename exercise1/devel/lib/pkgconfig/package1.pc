@@ -1,0 +1,1 @@
+/home/karlo/ROS-exercises/exercise1/devel/.private/package1/lib/pkgconfig/package1.pc

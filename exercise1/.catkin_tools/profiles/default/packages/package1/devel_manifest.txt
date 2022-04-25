@@ -1,0 +1,5 @@
+exc1/package1
+/home/karlo/ROS-exercises/exercise1/devel/.private/package1/cmake.lock /home/karlo/ROS-exercises/exercise1/devel/./cmake.lock
+/home/karlo/ROS-exercises/exercise1/devel/.private/package1/lib/pkgconfig/package1.pc /home/karlo/ROS-exercises/exercise1/devel/lib/pkgconfig/package1.pc
+/home/karlo/ROS-exercises/exercise1/devel/.private/package1/share/package1/cmake/package1Config.cmake /home/karlo/ROS-exercises/exercise1/devel/share/package1/cmake/package1Config.cmake
+/home/karlo/ROS-exercises/exercise1/devel/.private/package1/share/package1/cmake/package1Config-version.cmake /home/karlo/ROS-exercises/exercise1/devel/share/package1/cmake/package1Config-version.cmake

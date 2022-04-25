@@ -1,0 +1,8 @@
+prefix=/home/karlo/ROS-exercises/exercise1/devel/.private/std_msgs
+
+Name: std_msgs
+Description: Description of std_msgs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

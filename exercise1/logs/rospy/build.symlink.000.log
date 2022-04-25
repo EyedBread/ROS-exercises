@@ -1,0 +1,3 @@
+Symlinking /home/karlo/ROS-exercises/exercise1/devel/lib/pkgconfig/rospy.pc
+Symlinking /home/karlo/ROS-exercises/exercise1/devel/share/rospy/cmake/rospyConfig.cmake
+Symlinking /home/karlo/ROS-exercises/exercise1/devel/share/rospy/cmake/rospyConfig-version.cmake

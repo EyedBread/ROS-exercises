@@ -1,0 +1,5 @@
+exc1/receiver
+/home/karlo/ROS-exercises/exercise1/devel/.private/receiver/cmake.lock /home/karlo/ROS-exercises/exercise1/devel/./cmake.lock
+/home/karlo/ROS-exercises/exercise1/devel/.private/receiver/lib/pkgconfig/receiver.pc /home/karlo/ROS-exercises/exercise1/devel/lib/pkgconfig/receiver.pc
+/home/karlo/ROS-exercises/exercise1/devel/.private/receiver/share/receiver/cmake/receiverConfig-version.cmake /home/karlo/ROS-exercises/exercise1/devel/share/receiver/cmake/receiverConfig-version.cmake
+/home/karlo/ROS-exercises/exercise1/devel/.private/receiver/share/receiver/cmake/receiverConfig.cmake /home/karlo/ROS-exercises/exercise1/devel/share/receiver/cmake/receiverConfig.cmake

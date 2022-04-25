@@ -1,0 +1,1 @@
+/home/karlo/ROS-exercises/exercise2/devel/.private/roscpp/share/roscpp/cmake/roscppConfig.cmake
